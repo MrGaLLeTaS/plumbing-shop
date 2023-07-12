@@ -1,0 +1,17 @@
+D:\MyProjects\C#\Practice\Plumbing shop\Plumbing shop\bin\Debug\Plumbing shop.exe.config
+D:\MyProjects\C#\Practice\Plumbing shop\Plumbing shop\bin\Debug\Plumbing shop.exe
+D:\MyProjects\C#\Practice\Plumbing shop\Plumbing shop\bin\Debug\Plumbing shop.pdb
+D:\MyProjects\C#\Practice\Plumbing shop\Plumbing shop\obj\Debug\Plumbing shop.csproj.AssemblyReference.cache
+D:\MyProjects\C#\Practice\Plumbing shop\Plumbing shop\obj\Debug\Plumbing shop.csproj.SuggestedBindingRedirects.cache
+D:\MyProjects\C#\Practice\Plumbing shop\Plumbing shop\obj\Debug\Plumbing_shop.Form1.resources
+D:\MyProjects\C#\Practice\Plumbing shop\Plumbing shop\obj\Debug\Plumbing_shop.Properties.Resources.resources
+D:\MyProjects\C#\Practice\Plumbing shop\Plumbing shop\obj\Debug\Plumbing shop.csproj.GenerateResource.cache
+D:\MyProjects\C#\Practice\Plumbing shop\Plumbing shop\obj\Debug\Plumbing shop.csproj.CoreCompileInputs.cache
+D:\MyProjects\C#\Practice\Plumbing shop\Plumbing shop\obj\Debug\Plumbing shop.exe
+D:\MyProjects\C#\Practice\Plumbing shop\Plumbing shop\obj\Debug\Plumbing shop.pdb
+D:\MyProjects\C#\Practice\Plumbing shop\Plumbing shop\obj\Debug\Plumbing_shop.Form2.resources
+D:\MyProjects\C#\Practice\Plumbing shop\Plumbing shop\obj\Debug\Plumbing_shop.Form3.resources
+D:\MyProjects\C#\Practice\Plumbing shop\Plumbing shop\obj\Debug\Plumbing_shop.Form4.resources
+D:\MyProjects\C#\Practice\Plumbing shop\Plumbing shop\obj\Debug\Plumbing_shop.Form5.resources
+D:\MyProjects\C#\Practice\Plumbing shop\Plumbing shop\obj\Debug\Plumbing_shop.Form6.resources
+D:\MyProjects\C#\Practice\Plumbing shop\Plumbing shop\obj\Debug\Plumbing_shop.Form7.resources
